@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3488
+
+Vim plugin for using Rebar commands conveniently inside Vim.
+
+Currently only compile inside a \"simple\" (no sub_dirs) project works with the compiler window hooked up to compilation error messages.  Also has Rebar submenu plugin for NERDTree.
+
+Next up:
+* full implementation of create rebar subcommand with prompts and template autocomplete.
+* align Erlang compilation error messages in sub_dir projects of root project as links in compiler error window.
+* more coming soon...
+
+
